@@ -1,0 +1,25 @@
+:root{
+    --naranja: #f49d22;
+    --blanco: #f1f1f1;
+    --negro: #141414;
+    --crema: #fffbeb;
+
+    --titulos: 'Crimson Text', serif;;
+    --parrafos: 'Roboto', sans-serif;
+
+
+}
+
+.cabecera-titulo{
+    font-family: var(--titulos);
+    color: #f1f1f1;
+    background-color: #f49d22;
+    font-weight: 400;
+    padding: 15px;
+    margin:0%;
+    font-size: 50px;
+}
+
+p{
+   font-family: var(--parrafos); 
+}
